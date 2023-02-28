@@ -1,14 +1,14 @@
+# Hi i'am abdulmahdi
 
-# This is a paragraph of text.
+Here's a list of my certificates:
+- Kali linux admin
+- Wordpress
+- Python language
 
-Here's a list of items:
-- Item 1
-- Item 2
-- Item 3
+You do this **bold text** and *italic text* using Markdown.
 
-You can include **bold text** and *italic text* using Markdown.
+If you want to serch in google here's a link to 
+[Google](https://www.google.com/).
 
-Here's a link to [Google](https://www.google.com/).
-
-And here's an image:
+And here's an image that i don't know what is it... 
 ![Image](https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg)
