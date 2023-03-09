@@ -4,7 +4,7 @@ Here's a list of my certificates:
 - Kali linux admin
 - Wordpress
 - Python language
-
+- Front-end Developer
 You do this **bold text** and *italic text* using Markdown.
 
 If you want to know everything in the world this is ChatGPT here's a link to 
