@@ -1,7 +1,9 @@
 body {
     background-image: linear-gradient(to bottom, #00a4cd, #00cd82,#00a4cd);
     background-size: 100% 200%;
-    animation: colorsMove 2s linear infinite;
+    animation: colorsMove 2s linear infinite ;
+    font-family:Arial, Helvetica, sans-serif;
+
   }
   
   @keyframes colorsMove {
@@ -16,4 +18,47 @@ body {
     }
   }
 
+  h1 {
+    display: flex;
+    font-size: 5rem;
+    font-weight: bold;
+    justify-content: center;
+    text-shadow: 2px 2px 5px #888;
+  }
+
+span {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 5rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px #004d31;
+    background-image: linear-gradient(to bottom, #00cd82, #00a4cd, #00cd82);
+    background-size: 100% 200%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color:#00cd82;
+    animation: colorsMoveText 2s linear infinite;
+    animation: slidein 1s ease-in-out infinite alternate;
+
+  }
+  
+  @keyframes colorsMoveText {
+    0% {
+      background-position-y: -100%;
+    }
+    50% {
+      background-position-y: 0%;
+    }
+    100% {
+      background-position-y: 100%;
+    }
+  }
+
+  @keyframes slidein {
+    from {
+      transform: scale(100%);
+    }
+    to {
+      transform: scale(110%);
+    }
+  }
   
