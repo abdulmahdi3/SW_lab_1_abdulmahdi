@@ -5,6 +5,7 @@ Here's a list of my certificates:
 - Wordpress
 - Python language
 - Front-end Developer
+- zahraas husband
 You do this **bold text** and *italic text* using Markdown.
 
 If you want to know everything in the world this is ChatGPT here's a link to 
